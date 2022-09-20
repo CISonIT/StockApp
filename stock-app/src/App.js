@@ -4,6 +4,7 @@ import { StockDetailPage } from "./pages/StackDetailPage";
 import { StockOverviewPage } from "./pages/StockOverviewPage";
 import { NotFound } from "./pages/NotFound";
 import { WatchListContextProvider } from "./context/watchListContext"
+import "./styles/App.css"
 
 function App() {
   return (
